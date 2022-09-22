@@ -8,4 +8,3 @@
 * Moved build environment off lfs-dev partition
 * Added .gitignore and all packages on the VM build environment
     * Laptop build crashed will need to rebuild HW
-* Rebuilt laptop and begin to start the project over
